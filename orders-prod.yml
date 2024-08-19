@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      username: "{cipher}8673c9ac4844fe5d1f2e5aa6f37189a2474973954c7452dad6e130b8b3594f02"
+      password: "{cipher}5f58f6bb2f883f85b988ed5c15278fc97bef882b7bef21b174bf5e887216e0aef52b846493301e93fc1cb07066491152"

@@ -1,0 +1,7 @@
+build:
+  version: v.1
+
+spring:
+  datasource:
+    username: "{cipher}a1734efe6a4cb704aaaf959a960ae2df246cc6381ebde01a8ccdfc21d7da1250"
+    password: "{cipher}4760d0c411c3289bea49a160c23c7ade8320fa70afabfbdd16ed407310deed6e"
